@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Register</title>
+
+    <link href="myfile.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="myform">
+        <form action="">
+            <h2 id="reg">Register</h2>
+
+            <label class="label">enter your firstname</label>
+            </br>
+            <input type="text" name="firstname" id="fname" class="error" /><span id="errorfname" class="errorspan"></span>
+            </br>
+            <label class="label">enter your lastname</label>
+            </br>
+            <input type="text" name="lastname" id="lname" class="error" /><span id="errorlname"></span>
+            </br>
+            <label class="label">enter your username</label>
+            </br>
+            <input type="text" name="username" id="username" class="error" /><span id="errorusername"></span>
+            </br>
+            <label class="label">enter your gender</label>
+            <br>
+            <input type="radio" name="gender" value="male" class="gender" checked> Male<br>
+            <input type="radio" name="gender" value="female" class="gender"> Female<br>
+            <label class="label">enter your password</label>
+            </br>
+            <input type="text" name="password" id="pass" class="error" /><span id="errorpass"></span>
+            </br>
+            <label class="label">enter your age</label>
+            </br>
+            <input type="text" name="age" id="age" class="error" /><span id="errorage"></span>
+            </br>
+            <label class="label">City *</label>
+
+            <select name="city" id="city">
+                <option value="Alexandria">Alexandria</option>
+                <option value="Cairo">Cairo</option>
+                <option value="Menofeya">Menofeya</option>
+                <option value="Mansoura">Mansoura</option>
+                <option value="Kafr el Sheikh">Kafr el Sheikh</option>
+                <option value="Giza">Giza</option>
+
+
+            </select>
+            <button type="button" id="register">register</button>
+            <button type="reset" id="clear">clear</button>
+            </br>
+
+    </div>
+    </form>
+
+    <script src="myfile.js"></script>
+</body>
+
+</html>

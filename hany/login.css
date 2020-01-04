@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.logindiv {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+#login {
+    margin-bottom: 20px;
+}
+
+#username,
+#city {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 30px;
+    background-color: violet;
+}
+
+#label1 {
+    margin-top: 10px;
+}
+
+#password {
+    margin-top: 10px;
+    width: 400px;
+    height: 30px;
+    background-color: violet;
+}
+
+#btn {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background-color: thistle;
+    border-radius: 10px;
+}
+
+body {
+    background-image: url('bgi.jpg');
+}

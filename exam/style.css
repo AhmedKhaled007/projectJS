@@ -1,0 +1,80 @@
+li {
+    display: inline-block;
+    width: 400px;
+    padding: 8px;
+    margin: 5px;
+}
+
+#container {
+    width: 1000px;
+    margin: auto;
+}
+
+input {
+    margin-bottom: 3px;
+}
+
+#header {
+    height: 150px;
+}
+
+.main {
+    margin: auto;
+    width: 800px;
+    border: 1px solid steelblue;
+    text-align: center;
+    padding: 30px;
+}
+
+#start {
+    padding: 15px 30px;
+    border-radius: 5px;
+    margin: 25px;
+}
+
+#sub,
+#clr {
+    width: 150px;
+    margin: 20px;
+    padding: 10px
+}
+
+.btn {
+    width: 840px;
+    text-align: right;
+}
+
+
+/* .question {
+    display: flex;
+} */
+
+#time {
+    width: 100px;
+    margin-left: 829px;
+    text-align: center;
+    border: 2px solid salmon;
+    border-radius: 5px;
+    margin-bottom: 3px;
+}
+
+.qst-text {
+    display: inline-block;
+    width: 800px;
+}
+
+span {
+    display: inline-block;
+    float: right;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-right: 50px;
+    margin-top: 5px;
+}
+
+
+/* 
+p {
+    width: 500px;
+} */

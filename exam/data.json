@@ -1,0 +1,68 @@
+{
+    "response_code": 0,
+    "results": [{
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+        "correct_answer": "Inkscape",
+        "incorrect_answers": ["Paint.NET", "GIMP", "Adobe Photoshop"]
+    }, {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+        "correct_answer": "Santa Clara",
+        "incorrect_answers": ["Palo Alto", "Cupertino", "Mountain View"]
+    }, {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+        "correct_answer": "The Onion Router",
+        "incorrect_answers": ["The Only Router", "The Orange Router", "The Ominous Router"]
+    }, {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was the first commerically available computer processor?",
+        "correct_answer": "Intel 4004",
+        "incorrect_answers": ["Intel 486SX", "TMS 1000", "AMD AM386"]
+    }, {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+        "correct_answer": "Clipper Chip",
+        "incorrect_answers": ["Enigma Machine", "Skipjack", "Nautilus"]
+    }, {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many cores does the Intel i7-6950X have?",
+        "correct_answer": "10",
+        "incorrect_answers": ["12", "8", "4"]
+    }, {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+        "correct_answer": "Heat Sink",
+        "incorrect_answers": ["CPU Vent", "Temperature Decipator", "Heat Vent"]
+    }, {
+        "difficulty": "medium",
+        "question": "What does the term GPU stand for?",
+        "correct_answer": "Graphics Processing Unit",
+        "incorrect_answers": ["Gaming Processor Unit", "Graphite Producing Unit", "Graphical Proprietary Unit"]
+    }, {
+        "difficulty": "medium",
+        "question": "What was the first Android version specifically optimized for tablets?",
+        "correct_answer": "Honeycomb",
+        "incorrect_answers": ["Eclair", "Froyo", "Marshmellow"]
+    }, {
+        "difficulty": "medium",
+        "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+        "correct_answer": "2016",
+        "incorrect_answers": ["2013", "2009", "2011"]
+    }]
+}
